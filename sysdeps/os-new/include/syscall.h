@@ -59,5 +59,7 @@
 #define SYS_READ_FILE 9
 #define SYS_SEEK_FILE 10
 #define SYS_CLOSE_FILE 11
+#define SYS_VM_MAP 12
+#define SYS_VM_UNMAP 13
 
 #endif // _SYSCALL_H
